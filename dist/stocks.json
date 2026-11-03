@@ -9,8 +9,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.79,
+    "yield": 5.19,
     "satellite": false
   },
   {
@@ -23,8 +23,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.61,
+    "yield": 5.15,
     "satellite": false
   },
   {
@@ -37,8 +37,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19.35,
+    "yield": 5.57,
     "satellite": false
   },
   {
@@ -51,8 +51,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.32,
+    "yield": 6.42,
     "satellite": false
   },
   {
@@ -65,8 +65,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.39,
+    "yield": 4.64,
     "satellite": false
   },
   {
@@ -79,8 +79,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.44,
+    "yield": 4.67,
     "satellite": false
   },
   {
@@ -93,8 +93,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.15,
+    "yield": 5.44,
     "satellite": false
   },
   {
@@ -107,8 +107,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.9,
+    "yield": 4.56,
     "satellite": false
   },
   {
@@ -121,8 +121,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.1,
+    "yield": 6.13,
     "satellite": false
   },
   {
@@ -135,8 +135,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.15,
+    "yield": 5.16,
     "satellite": false
   },
   {
@@ -149,8 +149,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.72,
+    "yield": 3.93,
     "satellite": false
   },
   {
@@ -163,8 +163,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.01,
+    "yield": 3.71,
     "satellite": false
   },
   {
@@ -177,8 +177,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.11,
+    "yield": 4.74,
     "satellite": false
   },
   {
@@ -191,8 +191,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19.04,
+    "yield": 5.41,
     "satellite": false
   },
   {
@@ -205,8 +205,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.83,
+    "yield": 4.45,
     "satellite": false
   },
   {
@@ -219,8 +219,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7,
+    "yield": 5.57,
     "satellite": false
   },
   {
@@ -233,8 +233,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.05,
+    "yield": 3.91,
     "satellite": false
   },
   {
@@ -247,8 +247,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.9,
+    "yield": 3.39,
     "satellite": false
   },
   {
@@ -261,8 +261,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 33.04,
+    "yield": 2.24,
     "satellite": false
   },
   {
@@ -275,8 +275,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.07,
+    "yield": 4.85,
     "satellite": false
   },
   {
@@ -289,8 +289,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.92,
+    "yield": 4.23,
     "satellite": false
   },
   {
@@ -303,8 +303,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.11,
+    "yield": 3.53,
     "satellite": false
   },
   {
@@ -317,8 +317,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.2,
+    "yield": 3.72,
     "satellite": false
   },
   {
@@ -331,8 +331,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.74,
+    "yield": 4.8,
     "satellite": false
   },
   {
@@ -345,8 +345,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.46,
+    "yield": 3.35,
     "satellite": false
   },
   {
@@ -359,8 +359,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.02,
+    "yield": 4.25,
     "satellite": false
   },
   {
@@ -373,8 +373,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.38,
+    "yield": 3.79,
     "satellite": false
   },
   {
@@ -387,8 +387,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.14,
+    "yield": 4.43,
     "satellite": false
   },
   {
@@ -401,8 +401,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.05,
+    "yield": 4.32,
     "satellite": false
   },
   {
@@ -415,8 +415,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.18,
+    "yield": 4.49,
     "satellite": false
   },
   {
@@ -429,8 +429,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.48,
+    "yield": 3.54,
     "satellite": false
   },
   {
@@ -443,8 +443,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19.7,
+    "yield": 2.8,
     "satellite": false
   },
   {
@@ -457,8 +457,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.97,
+    "yield": 2.84,
     "satellite": false
   },
   {
@@ -471,8 +471,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.24,
+    "yield": 4.33,
     "satellite": false
   },
   {
@@ -485,8 +485,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.96,
+    "yield": 3.13,
     "satellite": false
   },
   {
@@ -499,8 +499,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.71,
+    "yield": 3.68,
     "satellite": false
   },
   {
@@ -513,8 +513,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.52,
+    "yield": 1.71,
     "satellite": false
   },
   {
@@ -527,8 +527,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.28,
+    "yield": 4.57,
     "satellite": false
   },
   {
@@ -541,8 +541,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.2,
+    "yield": 3.86,
     "satellite": false
   },
   {
@@ -555,8 +555,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.35,
+    "yield": 3.13,
     "satellite": false
   },
   {
@@ -569,8 +569,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.07,
+    "yield": 3.42,
     "satellite": false
   },
   {
@@ -583,8 +583,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.27,
+    "yield": 4.06,
     "satellite": false
   },
   {
@@ -597,8 +597,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 17.64,
+    "yield": 3.16,
     "satellite": false
   },
   {
@@ -611,8 +611,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.73,
+    "yield": 4.3,
     "satellite": false
   },
   {
@@ -625,8 +625,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.44,
+    "yield": 5.1,
     "satellite": false
   },
   {
@@ -639,8 +639,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.95,
+    "yield": 3.49,
     "satellite": false
   },
   {
@@ -653,8 +653,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.88,
+    "yield": 3.4,
     "satellite": false
   },
   {
@@ -667,8 +667,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.39,
+    "yield": 4.08,
     "satellite": false
   },
   {
@@ -681,8 +681,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.5,
+    "yield": 4.16,
     "satellite": false
   },
   {
@@ -695,8 +695,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 18.39,
+    "yield": 3.35,
     "satellite": false
   },
   {
@@ -709,8 +709,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.67,
+    "yield": 3.82,
     "satellite": false
   },
   {
@@ -723,8 +723,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.81,
+    "yield": 4.53,
     "satellite": false
   },
   {
@@ -737,8 +737,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.45,
+    "yield": 3.57,
     "satellite": false
   },
   {
@@ -751,8 +751,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 18.7,
+    "yield": 5.19,
     "satellite": false
   },
   {
@@ -765,8 +765,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 26.61,
+    "yield": 2.15,
     "satellite": false
   },
   {
@@ -779,8 +779,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.76,
+    "yield": 4.17,
     "satellite": false
   },
   {
@@ -793,8 +793,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.39,
+    "yield": 3.67,
     "satellite": false
   },
   {
@@ -807,8 +807,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.66,
+    "yield": 3.75,
     "satellite": false
   },
   {
@@ -821,8 +821,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.25,
+    "yield": 4.14,
     "satellite": false
   },
   {
@@ -835,8 +835,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.16,
+    "yield": 3.34,
     "satellite": false
   },
   {
@@ -849,8 +849,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.69,
+    "yield": 6.08,
     "satellite": false
   },
   {
@@ -863,8 +863,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.64,
+    "yield": 4.59,
     "satellite": false
   },
   {
@@ -877,8 +877,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.44,
+    "yield": 2.57,
     "satellite": false
   },
   {
@@ -891,8 +891,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.04,
+    "yield": 3.22,
     "satellite": false
   },
   {
@@ -905,8 +905,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.35,
+    "yield": 3.2,
     "satellite": false
   },
   {
@@ -919,8 +919,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.94,
+    "yield": 3.21,
     "satellite": false
   },
   {
@@ -933,8 +933,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.76,
+    "yield": 3.72,
     "satellite": false
   },
   {
@@ -947,8 +947,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.65,
+    "yield": 3.94,
     "satellite": false
   },
   {
@@ -961,8 +961,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.93,
+    "yield": 1.92,
     "satellite": false
   },
   {
@@ -975,8 +975,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.11,
+    "yield": 1.81,
     "satellite": false
   },
   {
@@ -989,8 +989,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.21,
+    "yield": 1.84,
     "satellite": false
   },
   {
@@ -1003,8 +1003,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 17.88,
+    "yield": 3.48,
     "satellite": false
   },
   {
@@ -1017,8 +1017,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.65,
+    "yield": 3.36,
     "satellite": false
   },
   {
@@ -1031,8 +1031,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.95,
+    "yield": 2.65,
     "satellite": false
   },
   {
@@ -1073,8 +1073,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.18,
+    "yield": 2.59,
     "satellite": false
   },
   {
@@ -1087,8 +1087,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.8,
+    "yield": 1.67,
     "satellite": false
   },
   {
@@ -1101,8 +1101,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.08,
+    "yield": 3.64,
     "satellite": false
   },
   {
@@ -1115,8 +1115,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.27,
+    "yield": 4.74,
     "satellite": false
   },
   {
@@ -1129,8 +1129,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.11,
+    "yield": 4.12,
     "satellite": false
   },
   {
@@ -1143,8 +1143,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.48,
+    "yield": 1.33,
     "satellite": false
   },
   {
@@ -1157,8 +1157,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.25,
+    "yield": 3.38,
     "satellite": false
   },
   {
@@ -1171,8 +1171,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.51,
+    "yield": 1.48,
     "satellite": false
   },
   {
@@ -1185,8 +1185,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.17,
+    "yield": 5.63,
     "satellite": false
   },
   {
@@ -1199,8 +1199,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 38.03,
+    "yield": 8.64,
     "satellite": false
   },
   {
@@ -1213,8 +1213,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 25.56,
+    "yield": 3.93,
     "satellite": false
   },
   {
@@ -1227,8 +1227,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.15,
+    "yield": 5.85,
     "satellite": false
   },
   {
@@ -1241,8 +1241,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 20.3,
+    "yield": 7.78,
     "satellite": false
   },
   {
@@ -1255,8 +1255,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19.7,
+    "yield": 4.9,
     "satellite": false
   },
   {
@@ -1283,8 +1283,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.95,
+    "yield": 5.24,
     "satellite": false
   },
   {
@@ -1297,8 +1297,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 20.87,
+    "yield": 4.51,
     "satellite": false
   },
   {
@@ -1311,8 +1311,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 24.1,
+    "yield": 5.94,
     "satellite": false
   },
   {
@@ -1325,8 +1325,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.54,
+    "yield": 5.91,
     "satellite": false
   },
   {
@@ -1339,8 +1339,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.98,
+    "yield": 5.7,
     "satellite": false
   },
   {
@@ -1353,8 +1353,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.1,
+    "yield": 6.37,
     "satellite": false
   },
   {
@@ -1367,8 +1367,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.4,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -1381,8 +1381,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.97,
+    "yield": 0.11,
     "satellite": false
   },
   {
@@ -1395,8 +1395,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.41,
+    "yield": 0.15,
     "satellite": false
   },
   {
@@ -1409,8 +1409,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.77,
+    "yield": 0.07,
     "satellite": false
   },
   {
@@ -1423,8 +1423,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.52,
+    "yield": 0.16,
     "satellite": false
   },
   {
@@ -1437,8 +1437,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.56,
+    "yield": 0.26,
     "satellite": false
   },
   {
@@ -1451,8 +1451,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.26,
+    "yield": 2.63,
     "satellite": false
   },
   {
@@ -1465,8 +1465,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 22.63,
+    "yield": 0.66,
     "satellite": false
   },
   {
@@ -1479,8 +1479,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.16,
+    "yield": 1.64,
     "satellite": false
   },
   {
@@ -1493,8 +1493,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 24.91,
+    "yield": 3.27,
     "satellite": false
   },
   {
@@ -1507,8 +1507,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 20.57,
+    "yield": 3.11,
     "satellite": false
   },
   {
@@ -1521,8 +1521,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.33,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -1535,8 +1535,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9,
+    "yield": 0.27,
     "satellite": false
   },
   {
@@ -1549,8 +1549,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.58,
+    "yield": 2.44,
     "satellite": false
   },
   {
@@ -1563,8 +1563,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 26.96,
+    "yield": 0.12,
     "satellite": false
   },
   {
@@ -1577,8 +1577,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.57,
+    "yield": 0.27,
     "satellite": false
   },
   {
@@ -1591,8 +1591,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.87,
+    "yield": 0.14,
     "satellite": false
   },
   {
@@ -1605,8 +1605,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": -16.73,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -1619,8 +1619,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 1.19,
+    "yield": 0.16,
     "satellite": false
   },
   {
@@ -1633,8 +1633,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.34,
+    "yield": 0.9,
     "satellite": false
   },
   {
@@ -1647,8 +1647,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 72.75,
+    "yield": 0.37,
     "satellite": false
   },
   {
@@ -1661,8 +1661,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 43.84,
+    "yield": 0.25,
     "satellite": false
   },
   {
@@ -1675,8 +1675,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 41.91,
+    "yield": 0.6,
     "satellite": false
   },
   {
@@ -1689,8 +1689,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 17.3,
+    "yield": 3.29,
     "satellite": false
   },
   {
@@ -1703,8 +1703,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19.59,
+    "yield": 3.86,
     "satellite": false
   },
   {
@@ -1717,8 +1717,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.97,
+    "yield": 2.07,
     "satellite": false
   },
   {
@@ -1731,8 +1731,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.44,
+    "yield": 1.78,
     "satellite": false
   },
   {
@@ -1745,8 +1745,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.26,
+    "yield": 0.41,
     "satellite": false
   },
   {
@@ -1759,8 +1759,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 32.53,
+    "yield": 3.61,
     "satellite": false
   },
   {
@@ -1773,8 +1773,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.89,
+    "yield": 6.94,
     "satellite": false
   },
   {
@@ -1787,8 +1787,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.64,
+    "yield": 3.25,
     "satellite": false
   },
   {
@@ -1801,8 +1801,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.15,
+    "yield": 0.95,
     "satellite": false
   },
   {
@@ -1815,8 +1815,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.72,
+    "yield": 3.96,
     "satellite": false
   },
   {
@@ -1829,8 +1829,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.29,
+    "yield": 0.26,
     "satellite": false
   },
   {
@@ -1843,8 +1843,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.64,
+    "yield": 6.28,
     "satellite": false
   },
   {
@@ -1857,8 +1857,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.39,
+    "yield": 1.29,
     "satellite": false
   },
   {
@@ -1871,8 +1871,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.59,
+    "yield": 1.55,
     "satellite": false
   },
   {
@@ -1885,8 +1885,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 17.49,
+    "yield": 3.08,
     "satellite": false
   },
   {
@@ -1899,8 +1899,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14,
+    "yield": 5.08,
     "satellite": false
   },
   {
@@ -1913,8 +1913,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 18,
+    "yield": 3.71,
     "satellite": false
   },
   {
@@ -1927,8 +1927,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 34.69,
+    "yield": 5.36,
     "satellite": false
   },
   {
@@ -1941,8 +1941,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 27.81,
+    "yield": 2.45,
     "satellite": false
   },
   {
@@ -1955,8 +1955,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.1,
+    "yield": 3,
     "satellite": false
   },
   {
@@ -2641,8 +2641,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 34.63,
+    "yield": 1.76,
     "satellite": false
   },
   {
@@ -2655,8 +2655,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 22.3,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -2669,8 +2669,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11,
+    "yield": 2.89,
     "satellite": false
   },
   {
@@ -2683,8 +2683,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.75,
+    "yield": 2.06,
     "satellite": false
   },
   {
@@ -2697,8 +2697,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.34,
+    "yield": 6.64,
     "satellite": false
   },
   {
@@ -2711,8 +2711,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.65,
+    "yield": 2.21,
     "satellite": false
   },
   {
@@ -2725,8 +2725,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.79,
+    "yield": 1.34,
     "satellite": false
   },
   {
@@ -2739,8 +2739,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.08,
+    "yield": 1.44,
     "satellite": false
   },
   {
@@ -2753,8 +2753,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.44,
+    "yield": 1.8,
     "satellite": false
   },
   {
@@ -2767,8 +2767,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.88,
+    "yield": 1.84,
     "satellite": false
   },
   {
@@ -2781,8 +2781,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.58,
+    "yield": 0.94,
     "satellite": false
   },
   {
@@ -2795,8 +2795,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 31.26,
+    "yield": 2.27,
     "satellite": false
   },
   {
@@ -2809,8 +2809,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.25,
+    "yield": 10.2,
     "satellite": false
   },
   {
@@ -2823,8 +2823,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 24.84,
+    "yield": 3.08,
     "satellite": false
   },
   {
@@ -2837,8 +2837,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.21,
+    "yield": 4.68,
     "satellite": false
   },
   {
@@ -2851,8 +2851,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 1.34,
+    "yield": 0.82,
     "satellite": false
   },
   {
@@ -2865,8 +2865,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 26.76,
+    "yield": 1.58,
     "satellite": false
   },
   {
@@ -2879,8 +2879,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.8,
+    "yield": 0.42,
     "satellite": false
   },
   {
@@ -2893,8 +2893,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.8,
+    "yield": 1.99,
     "satellite": false
   },
   {
@@ -2907,8 +2907,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.53,
+    "yield": 4.36,
     "satellite": false
   },
   {
@@ -2935,8 +2935,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.6,
+    "yield": 3.28,
     "satellite": false
   },
   {
@@ -2949,8 +2949,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.12,
+    "yield": 5.41,
     "satellite": false
   },
   {
@@ -2963,8 +2963,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.02,
+    "yield": 4.81,
     "satellite": false
   },
   {
@@ -2977,8 +2977,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.15,
+    "yield": 4.34,
     "satellite": false
   },
   {
@@ -2991,8 +2991,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.87,
+    "yield": 5.66,
     "satellite": false
   },
   {
@@ -3033,8 +3033,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.69,
+    "yield": 5.03,
     "satellite": false
   },
   {
@@ -3047,8 +3047,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.35,
+    "yield": 4.66,
     "satellite": false
   },
   {
@@ -3061,8 +3061,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.78,
+    "yield": 3.08,
     "satellite": false
   },
   {
@@ -3089,8 +3089,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.84,
+    "yield": 2.98,
     "satellite": false
   },
   {
@@ -3131,8 +3131,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 18.28,
+    "yield": 6.26,
     "satellite": false
   },
   {
@@ -3145,8 +3145,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.12,
+    "yield": 5.41,
     "satellite": false
   },
   {
@@ -3159,8 +3159,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.66,
+    "yield": 5.54,
     "satellite": false
   },
   {
@@ -3173,8 +3173,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.15,
+    "yield": 4.34,
     "satellite": false
   },
   {
@@ -3187,8 +3187,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 28.56,
+    "yield": 1.61,
     "satellite": false
   },
   {
@@ -3201,8 +3201,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.73,
+    "yield": 6.51,
     "satellite": false
   },
   {
@@ -3215,8 +3215,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.94,
+    "yield": 1.92,
     "satellite": false
   },
   {
@@ -3229,8 +3229,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.62,
+    "yield": 1.27,
     "satellite": false
   },
   {
@@ -3243,8 +3243,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.31,
+    "yield": 0.43,
     "satellite": false
   },
   {
@@ -3257,8 +3257,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.3,
+    "yield": 2.6,
     "satellite": false
   },
   {
@@ -3271,8 +3271,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 23.9,
+    "yield": 4.88,
     "satellite": false
   },
   {
@@ -3285,8 +3285,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 18.88,
+    "yield": 8.43,
     "satellite": false
   },
   {
@@ -3299,8 +3299,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.16,
+    "yield": 3.09,
     "satellite": false
   },
   {
@@ -3313,8 +3313,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.99,
+    "yield": 3.85,
     "satellite": false
   },
   {
@@ -3327,8 +3327,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.6,
+    "yield": 3.63,
     "satellite": false
   },
   {
@@ -3341,8 +3341,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 22.75,
+    "yield": 6.03,
     "satellite": false
   },
   {
@@ -3355,8 +3355,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.28,
+    "yield": 7.12,
     "satellite": false
   },
   {
@@ -3369,8 +3369,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 22.66,
+    "yield": 7.24,
     "satellite": false
   },
   {
@@ -3383,8 +3383,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.31,
+    "yield": 6.86,
     "satellite": false
   },
   {
@@ -3397,8 +3397,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.56,
+    "yield": 2.37,
     "satellite": false
   },
   {
@@ -3411,8 +3411,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.77,
+    "yield": 0.49,
     "satellite": false
   },
   {
@@ -3425,8 +3425,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.03,
+    "yield": 1.93,
     "satellite": false
   },
   {
@@ -3439,8 +3439,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 33.48,
+    "yield": 5.01,
     "satellite": false
   },
   {
@@ -3467,8 +3467,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.93,
+    "yield": 2.16,
     "satellite": false
   },
   {
@@ -3481,8 +3481,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 28.57,
+    "yield": 0.58,
     "satellite": false
   },
   {
@@ -3495,8 +3495,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 28.38,
+    "yield": 4.95,
     "satellite": false
   },
   {
@@ -3509,8 +3509,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.32,
+    "yield": 1.98,
     "satellite": false
   },
   {
@@ -3523,8 +3523,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.01,
+    "yield": 2.16,
     "satellite": false
   },
   {
@@ -3537,8 +3537,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.11,
+    "yield": 0.46,
     "satellite": false
   },
   {
@@ -3551,8 +3551,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.6,
+    "yield": 0.47,
     "satellite": false
   },
   {
@@ -3565,8 +3565,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.24,
+    "yield": 1.47,
     "satellite": false
   },
   {
@@ -3579,8 +3579,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": -14.71,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -3593,8 +3593,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 35.4,
+    "yield": 1.21,
     "satellite": false
   },
   {
@@ -3607,8 +3607,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 20.99,
+    "yield": 5.41,
     "satellite": false
   },
   {
@@ -3621,8 +3621,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.71,
+    "yield": 2.94,
     "satellite": false
   },
   {
@@ -3635,8 +3635,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.47,
+    "yield": 4.03,
     "satellite": false
   },
   {
@@ -3649,8 +3649,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.15,
+    "yield": 0.75,
     "satellite": false
   },
   {
@@ -3663,8 +3663,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.09,
+    "yield": 0.91,
     "satellite": false
   },
   {
@@ -3677,8 +3677,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19.57,
+    "yield": 1.9,
     "satellite": false
   },
   {
@@ -3691,8 +3691,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.17,
+    "yield": 3.06,
     "satellite": false
   },
   {
@@ -3705,8 +3705,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.81,
+    "yield": 0.39,
     "satellite": false
   },
   {
@@ -3719,8 +3719,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.64,
+    "yield": 2.72,
     "satellite": false
   },
   {
@@ -3733,8 +3733,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": -13.96,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -3747,8 +3747,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 24.49,
+    "yield": 1.43,
     "satellite": false
   },
   {
@@ -3761,8 +3761,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 0.5,
+    "yield": 8.93,
     "satellite": false
   },
   {
@@ -3775,8 +3775,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.1,
+    "yield": 3.35,
     "satellite": false
   },
   {
@@ -3789,8 +3789,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.19,
+    "yield": 1.47,
     "satellite": false
   },
   {
@@ -3817,8 +3817,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.8,
+    "yield": 1.19,
     "satellite": false
   },
   {
@@ -3831,8 +3831,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.75,
+    "yield": 5.16,
     "satellite": false
   },
   {
@@ -3845,8 +3845,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.87,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -3859,8 +3859,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 32.66,
+    "yield": 2.86,
     "satellite": false
   },
   {
@@ -3873,8 +3873,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.48,
+    "yield": 1,
     "satellite": false
   },
   {
@@ -3901,8 +3901,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.58,
+    "yield": 1.69,
     "satellite": false
   },
   {
@@ -3915,8 +3915,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.63,
+    "yield": 3.08,
     "satellite": false
   },
   {
@@ -3929,8 +3929,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 19,
+    "yield": 6.67,
     "satellite": false
   },
   {
@@ -3943,8 +3943,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.42,
+    "yield": 1.96,
     "satellite": false
   },
   {
@@ -3957,8 +3957,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.51,
+    "yield": 5.08,
     "satellite": false
   },
   {
@@ -3971,8 +3971,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 6.89,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -3985,8 +3985,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.83,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -3999,8 +3999,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.46,
+    "yield": 3.48,
     "satellite": false
   },
   {
@@ -4013,8 +4013,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.56,
+    "yield": 0.37,
     "satellite": false
   },
   {
@@ -4027,8 +4027,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.73,
+    "yield": 1.69,
     "satellite": false
   },
   {
@@ -4041,8 +4041,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.93,
+    "yield": 2.96,
     "satellite": false
   },
   {
@@ -4055,8 +4055,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.05,
+    "yield": 3.62,
     "satellite": false
   },
   {
@@ -4069,8 +4069,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.68,
+    "yield": 2.93,
     "satellite": false
   },
   {
@@ -4097,8 +4097,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.32,
+    "yield": 0.69,
     "satellite": false
   },
   {
@@ -4111,8 +4111,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.98,
+    "yield": 1.95,
     "satellite": false
   },
   {
@@ -4125,8 +4125,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.16,
+    "yield": 0,
     "satellite": false
   },
   {
@@ -4139,8 +4139,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.25,
+    "yield": 1.46,
     "satellite": false
   },
   {
@@ -4153,8 +4153,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.36,
+    "yield": 1.07,
     "satellite": false
   },
   {
@@ -4167,8 +4167,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 35.56,
+    "yield": 1.31,
     "satellite": false
   },
   {
@@ -4181,8 +4181,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 18.25,
+    "yield": 0.35,
     "satellite": false
   },
   {
@@ -4195,8 +4195,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 9.3,
+    "yield": 0.28,
     "satellite": false
   },
   {
@@ -4209,8 +4209,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.03,
+    "yield": 0.53,
     "satellite": false
   },
   {
@@ -4223,8 +4223,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 21.1,
+    "yield": 0.66,
     "satellite": false
   },
   {
@@ -4237,8 +4237,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.59,
+    "yield": 2.6,
     "satellite": false
   },
   {
@@ -4251,8 +4251,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.86,
+    "yield": 3.4,
     "satellite": false
   },
   {
@@ -4265,8 +4265,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.76,
+    "yield": 2.48,
     "satellite": false
   },
   {
@@ -4279,8 +4279,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 11.51,
+    "yield": 2.66,
     "satellite": false
   },
   {
@@ -4293,8 +4293,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.91,
+    "yield": 5.12,
     "satellite": false
   },
   {
@@ -4307,8 +4307,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.79,
+    "yield": 3.18,
     "satellite": false
   },
   {
@@ -4321,8 +4321,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 10.5,
+    "yield": 0.96,
     "satellite": false
   },
   {
@@ -4335,8 +4335,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 4.98,
+    "yield": 2.35,
     "satellite": false
   },
   {
@@ -4349,8 +4349,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.84,
+    "yield": 2.34,
     "satellite": false
   },
   {
@@ -4363,8 +4363,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 0.73,
+    "yield": 0.65,
     "satellite": false
   },
   {
@@ -4377,8 +4377,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 24.91,
+    "yield": 5.07,
     "satellite": false
   },
   {
@@ -4391,8 +4391,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 1.58,
+    "yield": 0.19,
     "satellite": false
   },
   {
@@ -4405,8 +4405,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 51.61,
+    "yield": 3.48,
     "satellite": false
   },
   {
@@ -4433,8 +4433,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.9,
+    "yield": 4.02,
     "satellite": false
   },
   {
@@ -4447,8 +4447,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 16.07,
+    "yield": 4.07,
     "satellite": false
   },
   {
@@ -4461,8 +4461,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.73,
+    "yield": 3.58,
     "satellite": false
   },
   {
@@ -4475,8 +4475,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.33,
+    "yield": 0.96,
     "satellite": false
   },
   {
@@ -4489,8 +4489,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 38.54,
+    "yield": 1.79,
     "satellite": false
   },
   {
@@ -4503,8 +4503,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 15.5,
+    "yield": 4.58,
     "satellite": false
   },
   {
@@ -4545,8 +4545,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 14.94,
+    "yield": 3.38,
     "satellite": false
   },
   {
@@ -4559,8 +4559,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.11,
+    "yield": 4,
     "satellite": false
   },
   {
@@ -4573,8 +4573,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 8.35,
+    "yield": 3.88,
     "satellite": false
   },
   {
@@ -4587,8 +4587,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.99,
+    "yield": 1.73,
     "satellite": false
   },
   {
@@ -4601,8 +4601,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.79,
+    "yield": 2.31,
     "satellite": false
   },
   {
@@ -4615,8 +4615,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.73,
+    "yield": 0.26,
     "satellite": false
   },
   {
@@ -4629,8 +4629,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 3.65,
+    "yield": 0.06,
     "satellite": false
   },
   {
@@ -4643,8 +4643,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.14,
+    "yield": 1.86,
     "satellite": false
   },
   {
@@ -4657,8 +4657,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 12.97,
+    "yield": 2.28,
     "satellite": false
   },
   {
@@ -4671,8 +4671,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 7.11,
+    "yield": 1.57,
     "satellite": false
   },
   {
@@ -4685,8 +4685,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 5.36,
+    "yield": 1.54,
     "satellite": false
   },
   {
@@ -4699,8 +4699,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 13.29,
+    "yield": 4.46,
     "satellite": false
   },
   {
@@ -4713,8 +4713,8 @@
     "price": null,
     "prevClose": null,
     "change": null,
-    "roe": null,
-    "yield": null,
+    "roe": 24.71,
+    "yield": 3.73,
     "satellite": false
   }
 ]
