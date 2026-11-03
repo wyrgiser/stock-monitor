@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A股与港股实时买点监控看板">
+  <title>买点雷达 · 实时行情</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div>
+        <div class="eyebrow">LIVE VALUE WATCHLIST · 实时行情</div>
+        <h1>买点雷达 <span>⌁</span></h1>
+        <p>覆盖完整观察清单，交易时段每 60 秒自动更新现价与日涨跌。</p>
+        <div class="live-line"><i></i><span id="liveStatus">正在载入完整股票清单…</span></div>
+      </div>
+      <div class="header-actions"><button class="ghost" id="refreshBtn">↻ 立即刷新</button><button class="primary" id="addBtn">＋ 添加标的</button></div>
+    </header>
+    <section class="hero-grid" id="stats"></section>
+    <section class="panel controls">
+      <div class="search-wrap"><span>⌕</span><input id="search" placeholder="搜索名称、代码或分类"></div>
+      <div class="filter-row">
+        <label>市场<select id="market"><option value="all">全部</option><option value="A股">A股</option><option value="港股">港股</option></select></label>
+        <label>仓位<select id="satellite"><option value="all">全部</option><option value="core">核心仓</option><option value="satellite">卫星仓</option></select></label>
+        <label>分类<select id="category"><option value="all">全部分类</option></select></label>
+        <button class="ghost" id="resetBtn">重置筛选</button>
+      </div>
+    </section>
+    <section class="legend" aria-label="距离买点区间">
+      <span><i class="dot buy"></i>已到买点</span><span><i class="dot near"></i>还需下跌 0–5%</span><span><i class="dot mid"></i>还需下跌 5–10%</span><span><i class="dot far"></i>还需下跌 ≥10%</span>
+    </section>
+    <section class="panel table-panel">
+      <div class="table-head"><div><b>完整观察清单</b><small id="resultCount"></small></div><button class="ghost" id="exportBtn">导出 CSV</button></div>
+      <div class="table-scroll">
+        <table><thead><tr>
+          <th data-sort="name">股票 ↕</th><th data-sort="category">分类 ↕</th><th class="num" data-sort="target">目标价 ↕</th><th class="num" data-sort="price">现价 ↕</th><th class="num" data-sort="change">日涨跌 ↕</th><th class="num active" data-sort="gap">距买点 ↓</th><th class="num" data-sort="roe">ROE ↕</th><th class="num" data-sort="yield">股息率 ↕</th><th></th>
+        </tr></thead><tbody id="rows"></tbody></table>
+      </div>
+      <div id="empty" class="empty">载入中…</div>
+    </section>
+    <footer><span>行情来自公开市场接口，可能存在延迟，仅供学习观察。</span><span>距买点 =（现价 − 目标价）÷ 现价</span></footer>
+  </div>
+  <dialog id="editor"><form method="dialog" id="stockForm">
+    <div class="dialog-head"><div><small>WATCHLIST EDITOR</small><h2 id="formTitle">添加标的</h2></div><button class="icon" value="cancel" aria-label="关闭">×</button></div>
+    <input type="hidden" id="editId">
+    <div class="form-grid">
+      <label>名称<input id="fName" required placeholder="例如：宁德时代"></label><label>代码<input id="fCode" required placeholder="300750.SZ"></label>
+      <label>市场<select id="fMarket"><option>A股</option><option>港股</option></select></label><label>分类<input id="fCategory" required placeholder="科技/新能源"></label>
+      <label>目标买入价<input id="fTarget" required type="number" step="0.01" min="0"></label><label>当前价格<input id="fPrice" type="number" step="0.01" min="0" placeholder="自动获取"></label>
+      <label>ROE %<input id="fRoe" type="number" step="0.01"></label><label>股息率 %<input id="fYield" type="number" step="0.01"></label>
+      <label class="check"><input id="fSatellite" type="checkbox"> 标记为卫星仓</label>
+    </div>
+    <div class="dialog-actions"><button class="ghost" value="cancel">取消</button><button class="primary" id="saveBtn" value="default">保存标的</button></div>
+  </form></dialog>
+  <script src="app.js"></script>
+</body>
+</html>
